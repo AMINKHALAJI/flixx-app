@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../09-asynchronous-javascript"
+		},
+		{
+			"path": "../../10-fetch-and-async-await"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../12-web-browser-apis"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "11-flix-app-project"
+	}
+}
